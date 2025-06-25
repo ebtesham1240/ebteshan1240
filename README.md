@@ -23,3 +23,12 @@
 🌐 Tools: Git | GitHub | VS Code | Chrome DevTools
 📦 Libraries/Frameworks: React.js | Tailwind CSS (learning)
 🌱 DB & Backend (learning): Node.js | MongoDB | Firebase
+
+---
+
+### 📊 GitHub Stats
+
+![Nasrin's GitHub stats](https://github-readme-stats.vercel.app/api?username=nasrinsultana&show_icons=true&theme=dracula)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nasrinsultana&layout=compact&theme=dracula)](https://github.com/nasrinsultana)
+
